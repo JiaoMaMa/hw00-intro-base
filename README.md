@@ -6,6 +6,7 @@ In this assignment, I did the following:
 - Updated the existing GUI with a color parameter.
 - Implemented Perlin Noise & FBM based on https://web.archive.org/web/20150316212611/http://freespace.virgin.net/hugo.elias/models/m_perlin.htm & https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83.
 - Created a custom vertex and fragment shader using noise functions to distort the vertices and texture the cube.
+- Live Demo: https://jiaomama.github.io/hw00-intro-base/
 
 <p align="center">
   <img src="dancingCube.gif">
